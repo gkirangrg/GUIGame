@@ -15,6 +15,11 @@ import javax.swing.JFrame;
  */
 public class Stage extends JFrame
 {
+    
+    
+    /**
+     * Some comments are added to the stage Class 
+     */
     public Screen screen;
      public Stage(Screen screen)//Contructor
      {
